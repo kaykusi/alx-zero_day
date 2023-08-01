@@ -1,1 +1,1 @@
-first trial on git
+Learning git merge
